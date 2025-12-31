@@ -1,5 +1,5 @@
 # Shayan Ghosh - Portfolio Website
-
+<img width="1902" height="867" alt="Image" src="https://github.com/user-attachments/assets/646b50a1-8680-4729-a940-2e76d6b36304" />
 A modern, responsive portfolio website for Shayan Ghosh, a BTech Computer Science & Engineering student at Abacus Institute of Engineering & Management.
 
 ## 🌟 Features
